@@ -1,5 +1,5 @@
 # Covid-19-Simple-Web-Application-
-Created a web application using Python and GUI, which could provide data on worldwide coronavirus cases and also country specific cases.Beautiful soup and html requests were used to gain the data.
+Created a Covid1-9 Tracker using Python and GUI, which could provide data on worldwide coronavirus cases and also country specific cases.Beautiful soup and html requests were used to gain the data.
 
 User Interface:
 
