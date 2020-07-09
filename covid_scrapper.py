@@ -22,7 +22,7 @@ def extract_data():
     world_data_list.append(get_table_new1.text)
     world_data_list.append(get_table_new2.text)
 
-    cases = Covid
+    cases = new Covid()
 
     global country_list
     global dictionary
